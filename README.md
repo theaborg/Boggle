@@ -1,1 +1,3 @@
 # Boggle
+This small project was a school assignment that i wrote with Jessica Kjellin. The main files (Boggle, cube and boggleplay) were written by us, and the other files were provided by LiU. 
+Boggle is a classic board game where the player tries to form as many words as possible from a grid of 16 letters. In our version, we simulate 16 dices with 6 sides. Each side contains a letter, and what letter is shown is randomized. The player then gets to enter as many words as they can find, and after their turn is over the program presents all of the correct words. To find all of the correct words, we had to implement a recursive search algorithm. 
